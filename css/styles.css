@@ -251,6 +251,7 @@ img {
 }
 .section-four-img {
     overflow: hidden;
+    position: relative;
 }
 .hidden-description-text {
     position:absolute;
